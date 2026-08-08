@@ -1,0 +1,13 @@
+{
+  "name": "Kapri Logistics",
+  "short_name": "Kapri",
+  "description": "One-stop solution for end-to-end supply chain, logistics, warehousing and 3PL services since 1994.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F5F6FA",
+  "theme_color": "#1B1840",
+  "icons": [
+    { "src": "images/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "images/favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
