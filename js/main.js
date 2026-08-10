@@ -46,7 +46,7 @@
         "Message:\n" + message;
 
       var mailto =
-        "mailto:info@kaprilogistics.in" +
+        "mailto:yogeshkapri@kaprilogistics.com" +
         "?subject=" + encodeURIComponent(subject) +
         "&body=" + encodeURIComponent(body);
 
